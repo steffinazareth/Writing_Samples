@@ -2,4 +2,4 @@
 
 This repository contains the following writing samples:
 1. [My thoughts on Venmo](Venmo.md)
-2. [My thoughts on FinTech in India]()
+2. [My thoughts on FinTech in India](UPI.md)
